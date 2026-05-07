@@ -56,3 +56,7 @@ A complete walkthrough of the project including:
 
 ## 🎥 Loom Video:
 👉 https://www.loom.com/share/9d5c6ef3235d48c3bc81414a5672b5a1
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png) 
