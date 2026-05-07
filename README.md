@@ -12,6 +12,7 @@ Identify drop-off points and improve conversion rate.
 ## ⚙️ Tools
 - SQL (BigQuery)
 - Looker Studio
+- Loom walkthrough
 
 ## 🔍 Funnel Steps
 - Session
